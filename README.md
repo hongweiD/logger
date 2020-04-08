@@ -1,2 +1,2 @@
 # logger
-go 实现的日志库
+go 实现的日志库vision-1
